@@ -1,0 +1,6 @@
+framework module ZZXibView {
+  umbrella header "ZZXibView-umbrella.h"
+
+  export *
+  module * { export * }
+}

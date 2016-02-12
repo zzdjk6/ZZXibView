@@ -1,0 +1,14 @@
+PODS:
+  - ZZXibView (0.1.0)
+
+DEPENDENCIES:
+  - ZZXibView (from `../`)
+
+EXTERNAL SOURCES:
+  ZZXibView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ZZXibView: 2b85558affe7db508ce42d66ea6488e0c8e6fd09
+
+COCOAPODS: 0.39.0
